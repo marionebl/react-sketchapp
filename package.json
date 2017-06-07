@@ -1,6 +1,6 @@
 {
   "name": "@marionebl/react-sketchapp",
-  "version": "0.10.3",
+  "version": "0.11.0",
   "description": "A React renderer for Sketch.app",
   "main": "lib/index.js",
   "license": "MIT",
