@@ -1,5 +1,5 @@
 {
-  "name": "react-sketchapp",
+  "name": "@marionebl/react-sketchapp",
   "version": "0.10.3",
   "description": "A React renderer for Sketch.app",
   "main": "lib/index.js",
